@@ -1,2 +1,2 @@
-# Embedded ARM Microcontroller Muliplexer 7-Segment
+# Embedded-Systems-ARM-Microcontroller-Multiplexed-7-Segment-Display
  
